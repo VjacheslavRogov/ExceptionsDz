@@ -1,2 +1,4 @@
-package ru.geekbrains;public class Task4 {
+package ru.geekbrains;
+
+public class Task4 {
 }
