@@ -16,6 +16,5 @@ public class Task4 {
             System.out.println("Пустая строка недопустима");
         }
         System.out.println("Вы ввели: " + uString);
-
     }
 }
